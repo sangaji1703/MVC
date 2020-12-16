@@ -1,0 +1,21 @@
+C:\Users\Asus\Downloads\Compressed\PenawaranMVC-master\PenawaranMVC-master\Peran Bagian MVC\bin\Debug\netcoreapp3.1\Peran Bagian MVC.exe
+C:\Users\Asus\Downloads\Compressed\PenawaranMVC-master\PenawaranMVC-master\Peran Bagian MVC\bin\Debug\netcoreapp3.1\Peran Bagian MVC.deps.json
+C:\Users\Asus\Downloads\Compressed\PenawaranMVC-master\PenawaranMVC-master\Peran Bagian MVC\bin\Debug\netcoreapp3.1\Peran Bagian MVC.runtimeconfig.json
+C:\Users\Asus\Downloads\Compressed\PenawaranMVC-master\PenawaranMVC-master\Peran Bagian MVC\bin\Debug\netcoreapp3.1\Peran Bagian MVC.runtimeconfig.dev.json
+C:\Users\Asus\Downloads\Compressed\PenawaranMVC-master\PenawaranMVC-master\Peran Bagian MVC\bin\Debug\netcoreapp3.1\Peran Bagian MVC.dll
+C:\Users\Asus\Downloads\Compressed\PenawaranMVC-master\PenawaranMVC-master\Peran Bagian MVC\bin\Debug\netcoreapp3.1\Peran Bagian MVC.pdb
+C:\Users\Asus\Downloads\Compressed\PenawaranMVC-master\PenawaranMVC-master\Peran Bagian MVC\obj\Debug\netcoreapp3.1\Peran Bagian MVC.csprojAssemblyReference.cache
+C:\Users\Asus\Downloads\Compressed\PenawaranMVC-master\PenawaranMVC-master\Peran Bagian MVC\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Asus\Downloads\Compressed\PenawaranMVC-master\PenawaranMVC-master\Peran Bagian MVC\obj\Debug\netcoreapp3.1\Penawaran.g.cs
+C:\Users\Asus\Downloads\Compressed\PenawaranMVC-master\PenawaranMVC-master\Peran Bagian MVC\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Asus\Downloads\Compressed\PenawaranMVC-master\PenawaranMVC-master\Peran Bagian MVC\obj\Debug\netcoreapp3.1\Peran Bagian MVC_MarkupCompile.cache
+C:\Users\Asus\Downloads\Compressed\PenawaranMVC-master\PenawaranMVC-master\Peran Bagian MVC\obj\Debug\netcoreapp3.1\Peran Bagian MVC_MarkupCompile.lref
+C:\Users\Asus\Downloads\Compressed\PenawaranMVC-master\PenawaranMVC-master\Peran Bagian MVC\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Asus\Downloads\Compressed\PenawaranMVC-master\PenawaranMVC-master\Peran Bagian MVC\obj\Debug\netcoreapp3.1\Penawaran.baml
+C:\Users\Asus\Downloads\Compressed\PenawaranMVC-master\PenawaranMVC-master\Peran Bagian MVC\obj\Debug\netcoreapp3.1\Peran Bagian MVC.g.resources
+C:\Users\Asus\Downloads\Compressed\PenawaranMVC-master\PenawaranMVC-master\Peran Bagian MVC\obj\Debug\netcoreapp3.1\Peran Bagian MVC.AssemblyInfoInputs.cache
+C:\Users\Asus\Downloads\Compressed\PenawaranMVC-master\PenawaranMVC-master\Peran Bagian MVC\obj\Debug\netcoreapp3.1\Peran Bagian MVC.AssemblyInfo.cs
+C:\Users\Asus\Downloads\Compressed\PenawaranMVC-master\PenawaranMVC-master\Peran Bagian MVC\obj\Debug\netcoreapp3.1\Peran Bagian MVC.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\Compressed\PenawaranMVC-master\PenawaranMVC-master\Peran Bagian MVC\obj\Debug\netcoreapp3.1\Peran Bagian MVC.dll
+C:\Users\Asus\Downloads\Compressed\PenawaranMVC-master\PenawaranMVC-master\Peran Bagian MVC\obj\Debug\netcoreapp3.1\Peran Bagian MVC.pdb
+C:\Users\Asus\Downloads\Compressed\PenawaranMVC-master\PenawaranMVC-master\Peran Bagian MVC\obj\Debug\netcoreapp3.1\Peran Bagian MVC.genruntimeconfig.cache
